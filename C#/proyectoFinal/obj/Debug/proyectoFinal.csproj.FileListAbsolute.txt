@@ -1,0 +1,182 @@
+C:\Users\User\source\repos\proyectoFinal\proyectoFinal\bin\Debug\proyectoFinal.exe.config
+C:\Users\User\source\repos\proyectoFinal\proyectoFinal\bin\Debug\proyectoFinal.exe
+C:\Users\User\source\repos\proyectoFinal\proyectoFinal\bin\Debug\proyectoFinal.pdb
+C:\Users\User\source\repos\proyectoFinal\proyectoFinal\bin\Debug\Npgsql.dll
+C:\Users\User\source\repos\proyectoFinal\proyectoFinal\bin\Debug\Npgsql.pdb
+C:\Users\User\source\repos\proyectoFinal\proyectoFinal\bin\Debug\Npgsql.xml
+C:\Users\User\source\repos\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csprojAssemblyReference.cache
+C:\Users\User\source\repos\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Form1.resources
+C:\Users\User\source\repos\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Properties.Resources.resources
+C:\Users\User\source\repos\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csproj.GenerateResource.cache
+C:\Users\User\source\repos\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csproj.CopyComplete
+C:\Users\User\source\repos\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.exe
+C:\Users\User\source\repos\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.pdb
+C:\Users\User\source\repos\proyectoFinal\proyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\proyectoFinal\proyectoFinal\bin\Debug\proyectoFinal.exe.config
+C:\Users\User\Desktop\proyectoFinal\proyectoFinal\bin\Debug\proyectoFinal.exe
+C:\Users\User\Desktop\proyectoFinal\proyectoFinal\bin\Debug\proyectoFinal.pdb
+C:\Users\User\Desktop\proyectoFinal\proyectoFinal\bin\Debug\Npgsql.dll
+C:\Users\User\Desktop\proyectoFinal\proyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\proyectoFinal\proyectoFinal\bin\Debug\Npgsql.pdb
+C:\Users\User\Desktop\proyectoFinal\proyectoFinal\bin\Debug\Npgsql.xml
+C:\Users\User\Desktop\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csprojAssemblyReference.cache
+C:\Users\User\Desktop\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Form1.resources
+C:\Users\User\Desktop\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Properties.Resources.resources
+C:\Users\User\Desktop\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csproj.GenerateResource.cache
+C:\Users\User\Desktop\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csproj.CopyComplete
+C:\Users\User\Desktop\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.exe
+C:\Users\User\Desktop\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.pdb
+C:\Users\User\Desktop\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.cliente.resources
+C:\Users\User\Desktop\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Verclientes.resources
+C:\Users\User\Desktop\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Almacen.resources
+C:\Users\User\Desktop\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.MenuPrincipal.resources
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\proyectoFinal\proyectoFinal\bin\Debug\proyectoFinal.exe.config
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\proyectoFinal\proyectoFinal\bin\Debug\proyectoFinal.exe
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\proyectoFinal\proyectoFinal\bin\Debug\proyectoFinal.pdb
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\proyectoFinal\proyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\proyectoFinal\proyectoFinal\bin\Debug\Npgsql.pdb
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\proyectoFinal\proyectoFinal\bin\Debug\Npgsql.xml
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csprojAssemblyReference.cache
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Almacen.resources
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Cargamento.resources
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Form1.resources
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.MenuPrincipal.resources
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Properties.Resources.resources
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csproj.GenerateResource.cache
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csproj.CopyComplete
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.exe
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.pdb
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.ContenidoCargamento.resources
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.alta_zapato.resources
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Ventas.resources
+C:\Users\danaf\Desktop\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csprojAssemblyReference.cache
+C:\Users\danaf\Desktop\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.exe
+C:\Users\danaf\Desktop\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.pdb
+C:\Users\danaf\Desktop\proyectoFinalBD\proyectoFinal\proyectoFinal\bin\Debug\proyectoFinal.exe.config
+C:\Users\danaf\Desktop\proyectoFinalBD\proyectoFinal\proyectoFinal\bin\Debug\proyectoFinal.exe
+C:\Users\danaf\Desktop\proyectoFinalBD\proyectoFinal\proyectoFinal\bin\Debug\proyectoFinal.pdb
+C:\Users\danaf\Desktop\proyectoFinalBD\proyectoFinal\proyectoFinal\bin\Debug\Npgsql.dll
+C:\Users\danaf\Desktop\proyectoFinalBD\proyectoFinal\proyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\danaf\Desktop\proyectoFinalBD\proyectoFinal\proyectoFinal\bin\Debug\Npgsql.pdb
+C:\Users\danaf\Desktop\proyectoFinalBD\proyectoFinal\proyectoFinal\bin\Debug\Npgsql.xml
+C:\Users\danaf\Desktop\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Almacen.resources
+C:\Users\danaf\Desktop\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.alta_zapato.resources
+C:\Users\danaf\Desktop\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Cargamento.resources
+C:\Users\danaf\Desktop\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.ContenidoCargamento.resources
+C:\Users\danaf\Desktop\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Form1.resources
+C:\Users\danaf\Desktop\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.MenuPrincipal.resources
+C:\Users\danaf\Desktop\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Properties.Resources.resources
+C:\Users\danaf\Desktop\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Ventas.resources
+C:\Users\danaf\Desktop\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csproj.GenerateResource.cache
+C:\Users\danaf\Desktop\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csproj.CopyComplete
+C:\Users\danaf\Desktop\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Empleados.resources
+C:\Users\danaf\Desktop\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.CantidadVenta.resources
+C:\Users\User\Desktop\proyecotote\proyectoFinalBD\proyectoFinal\proyectoFinal\bin\Debug\proyectoFinal.exe.config
+C:\Users\User\Desktop\proyecotote\proyectoFinalBD\proyectoFinal\proyectoFinal\bin\Debug\proyectoFinal.exe
+C:\Users\User\Desktop\proyecotote\proyectoFinalBD\proyectoFinal\proyectoFinal\bin\Debug\proyectoFinal.pdb
+C:\Users\User\Desktop\proyecotote\proyectoFinalBD\proyectoFinal\proyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\proyecotote\proyectoFinalBD\proyectoFinal\proyectoFinal\bin\Debug\Npgsql.pdb
+C:\Users\User\Desktop\proyecotote\proyectoFinalBD\proyectoFinal\proyectoFinal\bin\Debug\Npgsql.xml
+C:\Users\User\Desktop\proyecotote\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csprojAssemblyReference.cache
+C:\Users\User\Desktop\proyecotote\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Almacen.resources
+C:\Users\User\Desktop\proyecotote\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.alta_zapato.resources
+C:\Users\User\Desktop\proyecotote\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.CantidadVenta.resources
+C:\Users\User\Desktop\proyecotote\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Cargamento.resources
+C:\Users\User\Desktop\proyecotote\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.ContenidoCargamento.resources
+C:\Users\User\Desktop\proyecotote\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Empleados.resources
+C:\Users\User\Desktop\proyecotote\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Form1.resources
+C:\Users\User\Desktop\proyecotote\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.MenuPrincipal.resources
+C:\Users\User\Desktop\proyecotote\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Properties.Resources.resources
+C:\Users\User\Desktop\proyecotote\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Ventas.resources
+C:\Users\User\Desktop\proyecotote\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csproj.GenerateResource.cache
+C:\Users\User\Desktop\proyecotote\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\proyecotote\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csproj.CopyComplete
+C:\Users\User\Desktop\proyecotote\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.exe
+C:\Users\User\Desktop\proyecotote\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.pdb
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\version_corregidayaumentada_supersayandios\proyectoFinalBD\proyectoFinal\proyectoFinal\bin\Debug\proyectoFinal.exe.config
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\version_corregidayaumentada_supersayandios\proyectoFinalBD\proyectoFinal\proyectoFinal\bin\Debug\proyectoFinal.exe
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\version_corregidayaumentada_supersayandios\proyectoFinalBD\proyectoFinal\proyectoFinal\bin\Debug\proyectoFinal.pdb
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\version_corregidayaumentada_supersayandios\proyectoFinalBD\proyectoFinal\proyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\version_corregidayaumentada_supersayandios\proyectoFinalBD\proyectoFinal\proyectoFinal\bin\Debug\Npgsql.pdb
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\version_corregidayaumentada_supersayandios\proyectoFinalBD\proyectoFinal\proyectoFinal\bin\Debug\Npgsql.xml
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\version_corregidayaumentada_supersayandios\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csprojAssemblyReference.cache
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\version_corregidayaumentada_supersayandios\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Almacen.resources
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\version_corregidayaumentada_supersayandios\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.alta_zapato.resources
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\version_corregidayaumentada_supersayandios\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.CantidadVenta.resources
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\version_corregidayaumentada_supersayandios\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Cargamento.resources
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\version_corregidayaumentada_supersayandios\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.ContenidoCargamento.resources
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\version_corregidayaumentada_supersayandios\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Empleados.resources
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\version_corregidayaumentada_supersayandios\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Form1.resources
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\version_corregidayaumentada_supersayandios\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.MenuPrincipal.resources
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\version_corregidayaumentada_supersayandios\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Properties.Resources.resources
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\version_corregidayaumentada_supersayandios\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Ventas.resources
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\version_corregidayaumentada_supersayandios\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csproj.GenerateResource.cache
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\version_corregidayaumentada_supersayandios\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csproj.CopyComplete
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\version_corregidayaumentada_supersayandios\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.exe
+C:\Users\Saul\Desktop\Ingenieria en Computacion\Seminario Bases de Datos\Proyecto\version_corregidayaumentada_supersayandios\proyectoFinalBD\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.pdb
+C:\Users\User\Desktop\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csprojAssemblyReference.cache
+C:\Users\User\Desktop\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Almacen.resources
+C:\Users\User\Desktop\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.CantidadVenta.resources
+C:\Users\User\Desktop\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Cargamento.resources
+C:\Users\User\Desktop\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.ContenidoCargamento.resources
+C:\Users\User\Desktop\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Empleados.resources
+C:\Users\User\Desktop\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Form1.resources
+C:\Users\User\Desktop\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.MenuPrincipal.resources
+C:\Users\User\Desktop\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Properties.Resources.resources
+C:\Users\User\Desktop\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Ventas.resources
+C:\Users\User\Desktop\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csproj.GenerateResource.cache
+C:\Users\User\Desktop\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.exe
+C:\Users\User\Desktop\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.pdb
+C:\Users\User\Desktop\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\bin\Debug\proyectoFinal.exe.config
+C:\Users\User\Desktop\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\bin\Debug\proyectoFinal.exe
+C:\Users\User\Desktop\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\bin\Debug\proyectoFinal.pdb
+C:\Users\User\Desktop\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\bin\Debug\Npgsql.dll
+C:\Users\User\Desktop\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\bin\Debug\Npgsql.pdb
+C:\Users\User\Desktop\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\bin\Debug\Npgsql.xml
+C:\Users\User\Desktop\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csproj.CopyComplete
+C:\Users\User\Desktop\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Afiliado.resources
+D:\Mierda Importante\Qci\BASES DE DATOS\Proyecto\REPOS_PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\bin\Debug\proyectoFinal.exe.config
+D:\Mierda Importante\Qci\BASES DE DATOS\Proyecto\REPOS_PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\bin\Debug\proyectoFinal.exe
+D:\Mierda Importante\Qci\BASES DE DATOS\Proyecto\REPOS_PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\bin\Debug\proyectoFinal.pdb
+D:\Mierda Importante\Qci\BASES DE DATOS\Proyecto\REPOS_PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Mierda Importante\Qci\BASES DE DATOS\Proyecto\REPOS_PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\bin\Debug\Npgsql.pdb
+D:\Mierda Importante\Qci\BASES DE DATOS\Proyecto\REPOS_PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\bin\Debug\Npgsql.xml
+D:\Mierda Importante\Qci\BASES DE DATOS\Proyecto\REPOS_PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csprojAssemblyReference.cache
+D:\Mierda Importante\Qci\BASES DE DATOS\Proyecto\REPOS_PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Afiliado.resources
+D:\Mierda Importante\Qci\BASES DE DATOS\Proyecto\REPOS_PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Cargamento.resources
+D:\Mierda Importante\Qci\BASES DE DATOS\Proyecto\REPOS_PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.ContenidoCargamento.resources
+D:\Mierda Importante\Qci\BASES DE DATOS\Proyecto\REPOS_PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Meta.resources
+D:\Mierda Importante\Qci\BASES DE DATOS\Proyecto\REPOS_PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Rutina.resources
+D:\Mierda Importante\Qci\BASES DE DATOS\Proyecto\REPOS_PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Form1.resources
+D:\Mierda Importante\Qci\BASES DE DATOS\Proyecto\REPOS_PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.MenuPrincipal.resources
+D:\Mierda Importante\Qci\BASES DE DATOS\Proyecto\REPOS_PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Properties.Resources.resources
+D:\Mierda Importante\Qci\BASES DE DATOS\Proyecto\REPOS_PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csproj.GenerateResource.cache
+D:\Mierda Importante\Qci\BASES DE DATOS\Proyecto\REPOS_PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csproj.CopyComplete
+D:\Mierda Importante\Qci\BASES DE DATOS\Proyecto\REPOS_PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.exe
+D:\Mierda Importante\Qci\BASES DE DATOS\Proyecto\REPOS_PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.pdb
+C:\Users\xbox8\Documents\GitHub\C#\PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\bin\Debug\proyectoFinal.exe.config
+C:\Users\xbox8\Documents\GitHub\C#\PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\bin\Debug\proyectoFinal.exe
+C:\Users\xbox8\Documents\GitHub\C#\PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\bin\Debug\proyectoFinal.pdb
+C:\Users\xbox8\Documents\GitHub\C#\PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\xbox8\Documents\GitHub\C#\PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\bin\Debug\Npgsql.pdb
+C:\Users\xbox8\Documents\GitHub\C#\PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\bin\Debug\Npgsql.xml
+C:\Users\xbox8\Documents\GitHub\C#\PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csprojAssemblyReference.cache
+C:\Users\xbox8\Documents\GitHub\C#\PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Afiliado.resources
+C:\Users\xbox8\Documents\GitHub\C#\PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Alimento.resources
+C:\Users\xbox8\Documents\GitHub\C#\PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Cargamento.resources
+C:\Users\xbox8\Documents\GitHub\C#\PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.ContenidoCargamento.resources
+C:\Users\xbox8\Documents\GitHub\C#\PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Meta.resources
+C:\Users\xbox8\Documents\GitHub\C#\PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Rutina.resources
+C:\Users\xbox8\Documents\GitHub\C#\PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Form1.resources
+C:\Users\xbox8\Documents\GitHub\C#\PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.MenuPrincipal.resources
+C:\Users\xbox8\Documents\GitHub\C#\PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Properties.Resources.resources
+C:\Users\xbox8\Documents\GitHub\C#\PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csproj.GenerateResource.cache
+C:\Users\xbox8\Documents\GitHub\C#\PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\xbox8\Documents\GitHub\C#\PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.csproj.CopyComplete
+C:\Users\xbox8\Documents\GitHub\C#\PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.exe
+C:\Users\xbox8\Documents\GitHub\C#\PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.pdb
+D:\Mierda Importante\Qci\BASES DE DATOS\Proyecto\REPOS_PROYECTO\version_corregidayaumentada_supersayandios\proyectoFinal\proyectoFinal\obj\Debug\proyectoFinal.Alimento.resources
